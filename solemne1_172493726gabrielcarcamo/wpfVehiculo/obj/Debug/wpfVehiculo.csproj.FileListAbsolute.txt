@@ -1,0 +1,17 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\wpfVehiculo.exe.config
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\MainWindow.baml
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\MainWindow.g.cs
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\App.g.cs
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo_MarkupCompile.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.g.resources
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.Properties.Resources.resources
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.csproj.GenerateResource.Cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\wpfVehiculo.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\wpfVehiculo.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\Vehiculos.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\Vehiculos.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\obj\Debug\wpfVehiculo.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\Graph.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\wpfVehiculo\bin\Debug\Graph.pdb

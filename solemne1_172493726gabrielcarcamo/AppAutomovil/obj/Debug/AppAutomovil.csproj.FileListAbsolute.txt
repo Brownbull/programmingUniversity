@@ -1,0 +1,8 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\bin\Debug\AppAutomovil.exe.config
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\bin\Debug\AppAutomovil.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\bin\Debug\AppAutomovil.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\bin\Debug\Vehiculos.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\bin\Debug\Vehiculos.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\obj\Debug\AppAutomovil.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\obj\Debug\AppAutomovil.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\AppAutomovil\obj\Debug\AppAutomovil.pdb

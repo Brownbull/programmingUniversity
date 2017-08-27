@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Controladora", "Controladora", "{8E3832ED-63D9-41B6-A625-836291E9008A}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Modelo", "Modelo", "{C0BEDAFD-6B46-4E89-9E1C-7EF04B36CD41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{E9644FF4-BB95-4B71-B21F-CCD5A56DC052}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manejadora", "Manejadora\Manejadora.csproj", "{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9644FF4-BB95-4B71-B21F-CCD5A56DC052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9644FF4-BB95-4B71-B21F-CCD5A56DC052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9644FF4-BB95-4B71-B21F-CCD5A56DC052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9644FF4-BB95-4B71-B21F-CCD5A56DC052}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{FF43EB78-47DA-4B04-A62D-7A3D1ACD11BB} = {8E3832ED-63D9-41B6-A625-836291E9008A}
+		{E9644FF4-BB95-4B71-B21F-CCD5A56DC052} = {C0BEDAFD-6B46-4E89-9E1C-7EF04B36CD41}
+	EndGlobalSection
+EndGlobal

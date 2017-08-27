@@ -1,0 +1,10 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Consola.exe.config
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\obj\Debug\Consola.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Consola.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Consola.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Biblioteca.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Manejadora.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Biblioteca.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\bin\Debug\Manejadora.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\obj\Debug\Consola.exe
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Consola\obj\Debug\Consola.pdb

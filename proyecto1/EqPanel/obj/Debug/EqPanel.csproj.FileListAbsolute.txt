@@ -1,0 +1,15 @@
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\bin\Debug\EqPanel.exe.config
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\bin\Debug\EqPanel.exe
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\bin\Debug\EqPanel.pdb
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\bin\Debug\Equation.dll
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\bin\Debug\Equation.pdb
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\MainWindow.baml
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\MainWindow.g.cs
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\App.g.cs
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel_MarkupCompile.cache
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.g.resources
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.Properties.Resources.resources
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.csproj.GenerateResource.Cache
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.exe
+C:\Users\172493726\Desktop\Proyecto1\EqPanel\obj\Debug\EqPanel.pdb

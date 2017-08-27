@@ -1,0 +1,5 @@
+C:\Users\172493726\Desktop\Proyecto1\Equation\obj\Debug\Equation.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Proyecto1\Equation\bin\Debug\Equation.dll
+C:\Users\172493726\Desktop\Proyecto1\Equation\bin\Debug\Equation.pdb
+C:\Users\172493726\Desktop\Proyecto1\Equation\obj\Debug\Equation.dll
+C:\Users\172493726\Desktop\Proyecto1\Equation\obj\Debug\Equation.pdb

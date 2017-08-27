@@ -1,0 +1,10 @@
+C:\Users\172493726\Desktop\Clase08042017\Ejercicio\bin\Debug\Ejercicio.dll
+C:\Users\172493726\Desktop\Clase08042017\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\172493726\Desktop\Clase08042017\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Clase08042017\Ejercicio\obj\Debug\Ejercicio.dll
+C:\Users\172493726\Desktop\Clase08042017\Ejercicio\obj\Debug\Ejercicio.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Clase08042017\Ejercicio\bin\Debug\Ejercicio.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Clase08042017\Ejercicio\bin\Debug\Ejercicio.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Clase08042017\Ejercicio\obj\Debug\Ejercicio.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Clase08042017\Ejercicio\obj\Debug\Ejercicio.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Clase08042017\Ejercicio\obj\Debug\Ejercicio.pdb

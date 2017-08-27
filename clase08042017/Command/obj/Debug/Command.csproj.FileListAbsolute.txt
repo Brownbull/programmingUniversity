@@ -1,0 +1,8 @@
+C:\Users\172493726\Desktop\Clase08042017\Command\bin\Debug\Command.exe.config
+C:\Users\172493726\Desktop\Clase08042017\Command\bin\Debug\Command.exe
+C:\Users\172493726\Desktop\Clase08042017\Command\bin\Debug\Command.pdb
+C:\Users\172493726\Desktop\Clase08042017\Command\bin\Debug\Ejercicio.dll
+C:\Users\172493726\Desktop\Clase08042017\Command\bin\Debug\Ejercicio.pdb
+C:\Users\172493726\Desktop\Clase08042017\Command\obj\Debug\Command.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Clase08042017\Command\obj\Debug\Command.exe
+C:\Users\172493726\Desktop\Clase08042017\Command\obj\Debug\Command.pdb

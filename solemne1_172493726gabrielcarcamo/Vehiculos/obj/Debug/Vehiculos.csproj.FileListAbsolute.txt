@@ -1,0 +1,5 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\Vehiculos\bin\Debug\Vehiculos.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\Vehiculos\bin\Debug\Vehiculos.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\Vehiculos\obj\Debug\Vehiculos.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\Vehiculos\obj\Debug\Vehiculos.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\Solemne1_172493726GabrielCarcamo\Vehiculos\obj\Debug\Vehiculos.pdb

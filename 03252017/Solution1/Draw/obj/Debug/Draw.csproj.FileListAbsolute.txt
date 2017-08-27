@@ -1,0 +1,13 @@
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\bin\Debug\Draw.exe.config
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\bin\Debug\Draw.exe
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\bin\Debug\Draw.pdb
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\MainWindow.baml
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\MainWindow.g.cs
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\App.g.cs
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw_MarkupCompile.cache
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.g.resources
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.Properties.Resources.resources
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.csproj.GenerateResource.Cache
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.exe
+C:\Users\172493726\Desktop\03252017\Solution1\Draw\obj\Debug\Draw.pdb

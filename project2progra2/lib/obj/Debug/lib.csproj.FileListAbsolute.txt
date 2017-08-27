@@ -1,0 +1,10 @@
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Project2\lib\bin\Debug\lib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Project2\lib\bin\Debug\lib.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Project2\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Project2\lib\obj\Debug\lib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\Project2\lib\obj\Debug\lib.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\project2progra2\lib\bin\Debug\lib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\project2progra2\lib\bin\Debug\lib.pdb
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\project2progra2\lib\obj\Debug\lib.csprojResolveAssemblyReference.cache
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\project2progra2\lib\obj\Debug\lib.dll
+C:\Users\Gabriel\Documents\Visual Studio 2015\Projects\project2progra2\lib\obj\Debug\lib.pdb

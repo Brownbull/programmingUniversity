@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "lib", "lib", "{496BE5F5-5940-4FAC-996C-28C16B4911A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Vehiculos", "Vehiculos\Vehiculos.csproj", "{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Console", "Console", "{B8CB6109-CF08-4BA0-AF58-2075DCCB0EA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AppAutomovil", "AppAutomovil\AppAutomovil.csproj", "{BD717C07-5A18-44C3-ADAA-0EAA484698D4}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "wpf", "wpf", "{FCE1CB64-FEAE-4A5F-9D37-F983F15D80A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wpfVehiculo", "wpfVehiculo\wpfVehiculo.csproj", "{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graph", "Graph\Graph.csproj", "{CF196DB4-C755-493F-BD32-F483FA79A9D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BD717C07-5A18-44C3-ADAA-0EAA484698D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD717C07-5A18-44C3-ADAA-0EAA484698D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD717C07-5A18-44C3-ADAA-0EAA484698D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD717C07-5A18-44C3-ADAA-0EAA484698D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF196DB4-C755-493F-BD32-F483FA79A9D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF196DB4-C755-493F-BD32-F483FA79A9D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF196DB4-C755-493F-BD32-F483FA79A9D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF196DB4-C755-493F-BD32-F483FA79A9D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A5B9FE7A-0985-4B84-BA22-9B8947F7CB36} = {496BE5F5-5940-4FAC-996C-28C16B4911A5}
+		{CF196DB4-C755-493F-BD32-F483FA79A9D0} = {496BE5F5-5940-4FAC-996C-28C16B4911A5}
+		{BD717C07-5A18-44C3-ADAA-0EAA484698D4} = {B8CB6109-CF08-4BA0-AF58-2075DCCB0EA8}
+		{FE0AA66D-C138-485C-BDB1-0AAEBDDAEFE5} = {FCE1CB64-FEAE-4A5F-9D37-F983F15D80A1}
+	EndGlobalSection
+EndGlobal

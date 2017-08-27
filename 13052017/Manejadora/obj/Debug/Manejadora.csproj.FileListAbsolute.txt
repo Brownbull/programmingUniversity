@@ -1,0 +1,7 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\bin\Debug\Manejadora.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\bin\Debug\Manejadora.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\bin\Debug\Biblioteca.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\bin\Debug\Biblioteca.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\obj\Debug\Manejadora.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\obj\Debug\Manejadora.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Manejadora\obj\Debug\Manejadora.pdb

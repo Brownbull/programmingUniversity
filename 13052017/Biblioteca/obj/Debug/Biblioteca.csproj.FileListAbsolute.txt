@@ -1,0 +1,5 @@
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Biblioteca\obj\Debug\Biblioteca.csprojResolveAssemblyReference.cache
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\172493726\Desktop\Visual Studio\progra2\13052017\Biblioteca\obj\Debug\Biblioteca.pdb
